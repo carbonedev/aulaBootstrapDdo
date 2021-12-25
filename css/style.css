@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.navbar {
+    background-color: rgb(127, 193, 255);
+}
+
+.quemsomos{
+    background-color: rgb(255, 136, 0);
+    color: rgba(112, 111, 111, 0.959);
+}
+
+.margin{
+     padding-bottom: 30px;
+}
+
+.titulo{ 
+    padding-top: 30px;
+    padding-bottom: 15px;
+   
+  }
+
+  .parceiros{
+      background-color: rgb(71, 151, 71);
+  }
+
+  .marginimg{
+      padding:15px;
+  }
+
+  .bg-footer{
+    background-color: rgb(127, 193, 255);
+          
+  }
+
+  p{
+      margin-bottom: 0px;
+  }
